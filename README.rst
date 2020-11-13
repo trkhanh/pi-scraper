@@ -1,9 +1,11 @@
-Sample Module Repository
+Pi Scrapy
 ========================
 
-This simple project is an example repo for Python projects.
+Scraping is a two step process:
 
-`Learn more <http://www.kennethreitz.org/essays/repository-structure-and-python>`_.
+You systematically find and download web pages.
+You take those web pages and extract information from them.
+
 
 ---------------
 

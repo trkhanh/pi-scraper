@@ -3,3 +3,6 @@ init:
 
 test:
 	nosetests tests
+
+scrape: 
+	scrapy runspider scraper.py
